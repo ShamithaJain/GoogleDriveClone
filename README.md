@@ -35,11 +35,11 @@ cd GoogleDriveClone
 npm install
 
 # Create a .env file and add:
-# MONGO_URL=
-# SUPABASE_URL=
-# SUPABASE_KEY=
-# BUCKET_NAME=
-# AUTH details (if required)
+MONGO_URL=
+SUPABASE_URL=
+SUPABASE_KEY=
+BUCKET_NAME=
+AUTH details (if required)
 
 # Start the server
 npm start
