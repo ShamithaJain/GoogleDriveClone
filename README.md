@@ -45,8 +45,8 @@ AUTH details (if required)
 npm start
 
 ### 📤 File Upload Page
-![File Upload](./fileupload.jpeg)
+![File Upload](./FileUpload.jpeg)
 
 ### 📝 Register Page
-![Register Page](./register.png)
+![Register Page](./Register.png)
 
