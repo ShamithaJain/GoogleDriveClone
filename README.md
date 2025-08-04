@@ -30,7 +30,7 @@ A full-stack Google Drive Clone that allows authenticated users to upload, manag
 # Clone the repo
 git clone https://github.com/ShamithaJain/GoogleDriveClone.git
 cd GoogleDriveClone
-
+```
 # Install dependencies
 npm install
 
